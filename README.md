@@ -36,7 +36,6 @@ Essa abordagem oferece as seguintes vantagens:
 VirtualBox is 7.0.0
 Linux Mint: Linux Mint version 21.2
 Visual Studio Code is 1.80.0
-1. Observe a saída no terminal, que mostra o envio e processamento das mensagens, bem como as confirmações entre os processos.
 ## <a name="_wgezfgozvhw1"></a>**Exemplo de Saída**
 Iniciando o processo consumidor...
 
