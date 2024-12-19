@@ -1,4 +1,5 @@
 # <a name="_bexghtgkx7gb"></a>**README - Comunicação entre Processos com Pipes**
+## <a name="_17qrdciorts"></a>**Autor: Daniel Santos Monteiro**
 ## <a name="_17qrdciorts"></a>**Descrição do Programa**
 Este programa demonstra a comunicação entre dois processos (produtor e consumidor) utilizando **pipes bidirecionais** para garantir sincronização e troca de mensagens ordenada. O produtor envia mensagens sequenciais para o consumidor, e o consumidor processa cada mensagem antes de confirmar seu recebimento. A implementação evita problemas de desordem nas mensagens, comuns em versões mais simples que utilizam apenas um único pipe.
 ## <a name="_vjaac5j9rn5g"></a>**Funcionalidade**
