@@ -32,15 +32,10 @@ Essa abordagem oferece as seguintes vantagens:
 - **Sincronização Garantida**: O produtor aguarda explicitamente a confirmação do consumidor antes de enviar a próxima mensagem.
 - **Execução Ordenada**: Cada mensagem é processada na ordem em que foi enviada, eliminando problemas de concorrência.
 - **Feedback Explícito**: O produtor sabe quando o consumidor processou cada mensagem.
-## <a name="_zap052vzj4jn"></a>**Instruções para Execução**
-Compile o código com o comando:
-
-` `gcc -o pipeline pipeline.c
-
-Execute o programa:
-
-./pipeline
-
+## <a name="_zap052vzj4jn"></a>**Ambiente Implementado**
+VirtualBox is 7.0.0
+Linux Mint: Linux Mint version 21.2
+Visual Studio Code is 1.80.0
 1. Observe a saída no terminal, que mostra o envio e processamento das mensagens, bem como as confirmações entre os processos.
 ## <a name="_wgezfgozvhw1"></a>**Exemplo de Saída**
 Iniciando o processo consumidor...
